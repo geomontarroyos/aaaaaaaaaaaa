@@ -1,0 +1,45 @@
+{
+  "node": {
+    "e112c2f10ad6fe6a80962050810c5b0b870b12fc": {
+      "workers": {
+        "app/pages/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cgmont%5C%5COneDrive%5C%5C%C3%81rea%20de%20Trabalho%5C%5Cptac%5C%5Caaaaaaaaaaaa%5C%5Csrc%5C%5Capp%5C%5Cfunctions%5C%5ChandlerAcessAPI.js%22%2C%5B%22getUsers%22%2C%22getUserAuthenticated%22%2C%22postUser%22%2C%22UpdateUser%22%5D%5D%5D&__client_imported__=!",
+        "app/pages/registrar/page": "(actionBrowser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cgmont%5C%5COneDrive%5C%5C%C3%81rea%20de%20Trabalho%5C%5Cptac%5C%5Caaaaaaaaaaaa%5C%5Csrc%5C%5Capp%5C%5Cfunctions%5C%5ChandlerAcessAPI.js%22%2C%5B%22getUsers%22%2C%22getUserAuthenticated%22%2C%22postUser%22%2C%22UpdateUser%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/pages/dashboard/page": "rsc",
+        "app/pages/registrar/page": "actionBrowser"
+      }
+    },
+    "b0992731c04e84055e4281e9ba6323cbb9e87d16": {
+      "workers": {
+        "app/pages/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cgmont%5C%5COneDrive%5C%5C%C3%81rea%20de%20Trabalho%5C%5Cptac%5C%5Caaaaaaaaaaaa%5C%5Csrc%5C%5Capp%5C%5Cfunctions%5C%5ChandlerAcessAPI.js%22%2C%5B%22getUsers%22%2C%22getUserAuthenticated%22%2C%22postUser%22%2C%22UpdateUser%22%5D%5D%5D&__client_imported__=!",
+        "app/pages/registrar/page": "(actionBrowser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cgmont%5C%5COneDrive%5C%5C%C3%81rea%20de%20Trabalho%5C%5Cptac%5C%5Caaaaaaaaaaaa%5C%5Csrc%5C%5Capp%5C%5Cfunctions%5C%5ChandlerAcessAPI.js%22%2C%5B%22getUsers%22%2C%22getUserAuthenticated%22%2C%22postUser%22%2C%22UpdateUser%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/pages/dashboard/page": "rsc",
+        "app/pages/registrar/page": "actionBrowser"
+      }
+    },
+    "58fe490422b7bc1b95e579584eba9fb4ef2c1e92": {
+      "workers": {
+        "app/pages/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cgmont%5C%5COneDrive%5C%5C%C3%81rea%20de%20Trabalho%5C%5Cptac%5C%5Caaaaaaaaaaaa%5C%5Csrc%5C%5Capp%5C%5Cfunctions%5C%5ChandlerAcessAPI.js%22%2C%5B%22getUsers%22%2C%22getUserAuthenticated%22%2C%22postUser%22%2C%22UpdateUser%22%5D%5D%5D&__client_imported__=!",
+        "app/pages/registrar/page": "(actionBrowser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cgmont%5C%5COneDrive%5C%5C%C3%81rea%20de%20Trabalho%5C%5Cptac%5C%5Caaaaaaaaaaaa%5C%5Csrc%5C%5Capp%5C%5Cfunctions%5C%5ChandlerAcessAPI.js%22%2C%5B%22getUsers%22%2C%22getUserAuthenticated%22%2C%22postUser%22%2C%22UpdateUser%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/pages/dashboard/page": "rsc",
+        "app/pages/registrar/page": "actionBrowser"
+      }
+    },
+    "716ce29859c240e42b85f5c52d37ad129c7f22d3": {
+      "workers": {
+        "app/pages/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cgmont%5C%5COneDrive%5C%5C%C3%81rea%20de%20Trabalho%5C%5Cptac%5C%5Caaaaaaaaaaaa%5C%5Csrc%5C%5Capp%5C%5Cfunctions%5C%5ChandlerAcessAPI.js%22%2C%5B%22getUsers%22%2C%22getUserAuthenticated%22%2C%22postUser%22%2C%22UpdateUser%22%5D%5D%5D&__client_imported__=!",
+        "app/pages/registrar/page": "(actionBrowser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cgmont%5C%5COneDrive%5C%5C%C3%81rea%20de%20Trabalho%5C%5Cptac%5C%5Caaaaaaaaaaaa%5C%5Csrc%5C%5Capp%5C%5Cfunctions%5C%5ChandlerAcessAPI.js%22%2C%5B%22getUsers%22%2C%22getUserAuthenticated%22%2C%22postUser%22%2C%22UpdateUser%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/pages/dashboard/page": "rsc",
+        "app/pages/registrar/page": "actionBrowser"
+      }
+    }
+  },
+  "edge": {}
+}
